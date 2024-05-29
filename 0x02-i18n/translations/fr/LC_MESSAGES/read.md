@@ -1,1 +1,0 @@
-fr/LC_MESSAGES
